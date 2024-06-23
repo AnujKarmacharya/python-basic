@@ -1,0 +1,3 @@
+Assignment 2
+    using loop print each character in next line
+    multiplication table
