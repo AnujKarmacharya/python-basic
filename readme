@@ -1,4 +1,5 @@
 commit 
 add
-merge
-(checkout) -b 
+merge branch name
+checkout -b  branch name  // checkout branch name 
+git braches
