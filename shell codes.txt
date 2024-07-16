@@ -1,0 +1,12 @@
+from todo.models import task
+Tasks.objects.all().values() 
+Tasks.objects.get.values() 
+task.object.create()
+task.object.get(pk=)
+task.name,status,discription
+task.name=""
+task.save()
+task = Task.obj.get(pk=4)
+task.name
+task.delete
+
